@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/kemilly/A Backup/eclipse-workspace/MinasEnsemble/src/lib/weka.jar"/>
+	<classpathentry kind="lib" path="/home/kemilly/A Backup/eclipse-workspace/MinasEnsemble/src/lib/moa-2013.11.jar"/>
+	<classpathentry kind="lib" path="/home/kemilly/A Backup/eclipse-workspace/MinasEnsemble/src/lib/moa.jar"/>
+	<classpathentry kind="lib" path="/home/kemilly/A Backup/eclipse-workspace/MinasEnsemble/src/lib/MINAS.jar"/>
+	<classpathentry kind="lib" path="/home/kemilly/A Backup/eclipse-workspace/MinasEnsemble/src/lib/jfreechart-1.0.14.jar"/>
+	<classpathentry kind="lib" path="/home/kemilly/A Backup/eclipse-workspace/MinasEnsemble/src/lib/jcommon-1.0.18.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
